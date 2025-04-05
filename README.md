@@ -92,17 +92,6 @@ Extracts, analyzes, and visualizes key financial insights from scanned documents
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishantChoudhary&show_icons=true&theme=github_dark&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishantChoudhary&theme=github-dark-blue" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishantChoudhary&layout=compact&theme=github_dark" width="48%" />
-</p>
-
----
-
 ## 📫 Let's Connect!
 - 📧 Email: [choudharyvishant111@gmail.com](mailto:choudharyvishant111@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/vishantchoudhary](https://linkedin.com/in/vishantchoudhary)
