@@ -51,8 +51,6 @@ Extracts, analyzes, and visualizes key financial insights from scanned documents
 - ✅ Reduced verification time & manual effort
 - ✅ Improved accuracy & scalability
 
----
-
 ### 3. Frontend Development – Suven Consultants and Technology Pvt. Ltd.  
 **Duration:** Oct 2023 – Nov 2023 | **Location:** Mumbai, Remote  
 **Role:** Frontend Developer Intern  
